@@ -1,0 +1,43 @@
+body {
+	font-size: 100%;
+	font-family: Quicksand;
+	background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/weather.png');
+}
+
+.container {
+	text-align: center;
+}
+#header {
+	padding-top: 40px;
+	padding-bottom: 10px;
+	font-size: 275%;
+	font-family: ultra;
+	color: #0d1b2a;
+}
+#weather {
+	font-size: 200%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+#location {
+	font-size: 250%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color: #0d1b2a;
+}
+.weather-box {
+	padding: 15px;
+	border-radius: 50px;
+	box-shadow: 0px 0px 10px 1px #000;
+	margin-bottom: 15px;
+	background-color: #ffd972;
+}
+
+#weather-description {
+	font-weight: bold;
+	font-size: 120%;
+}
+
+#icon {
+	color: green;
+}
